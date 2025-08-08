@@ -19,7 +19,6 @@ Sou apaixonado por construir **produtos digitais modernos**, com foco em perform
 🧩 Desenvolvendo sistemas como:
 - Plataformas de agendamento (clínicas, salões)
 - Sites de notícias com painel de publicação
-- Bancos de dados visuais tipo Supabase
 - Dashboards administrativos
 - Ferramentas internas para automações
 
