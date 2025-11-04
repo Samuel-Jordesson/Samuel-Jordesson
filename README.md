@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o Jordesson</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Criador do <strong><a href="https://lumio-brown.vercel.app/login" target="_blank">Lumio</a></strong> | Desenvolvedor do <strong>Efflar Stok</strong>
+  Desenvolvedor Full Stack | Criador do <strong><a href="https://lumio-brown.vercel.app/login" target="_blank">Lumio</a></strong> | Desenvolvedor do <strong> ReutBook </strong>
 </p>
 
 <p align="center">
-  Você pode saber mais sobre mim em:  
-  <a href="https://samueljordesson.com" target="_blank"><strong>samueljordesson.com</strong></a>
+  Você pode saber mais sobre mim no meu:  
+  <a href="https://samuel-jordesson.github.io/portifolio/" target="_blank"><strong>Portifolio</strong></a>
 </p>
 
 <p align="center">
