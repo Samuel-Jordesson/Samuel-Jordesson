@@ -1,22 +1,65 @@
-<h1 align="center">Olá, eu sou o Jordesson</h1>
+<h1>Samuel Jordesson</h1>
 
-<p align="center">
-  Desenvolvedor Full Stack | Criador do <strong><a href="https://lumio-brown.vercel.app/login" target="_blank">Lumio</a></strong> | Desenvolvedor do <strong> ReutBook </strong>
+<p>
+  Full Stack Developer
 </p>
 
-<p align="center">
-  Você pode saber mais sobre mim no meu:  
-  <a href="https://samuel-jordesson.github.io/portifolio/" target="_blank"><strong>Portifolio</strong></a>
+<p>
+  Especializado em aplicações web modernas, sistemas escaláveis e desenvolvimento de produtos digitais.
 </p>
 
-<p align="center">
+## Sobre
+
+Desenvolvedor focado na construção de sistemas e web, atuando tanto no backend e frontend.  
+Experiência com desenvolvimento de plataformas administrativas, servidores, APIs e aplicações web.
+
+Portfólio:
+https://samuel-jordesson.github.io/portifolio/
+
+---
+
+## Stack Principal
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" />
+</p>
+
+
+## Competências
+
+- Desenvolvimento Full Stack
+- Arquitetura de APIs REST
+- Integração com bancos de dados
+- Desenvolvimento com Node.js
+- Interfaces modernas com React e Next.js
+- Sistemas administrativos
+- Aplicações web performáticas
+
+
+## Projetos
+
+**Lumio**  
+Sistema web com autenticação e gerenciamento estruturado.
+
+**ReutBook**  
+Plataforma digital com foco em organização e estruturação de conteúdo.
+
+
+## Contato
+
+<p>
   <a href="https://github.com/Samuel-Jordesson">
-    <img src="https://img.shields.io/github/followers/Samuel-Jordesson?label=Seguidores&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Samuel-Jordesson?label=GitHub&style=social" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:seuemail@email.com">
+  
+  <a href="mailto:samueljordesson77@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
